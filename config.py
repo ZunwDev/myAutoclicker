@@ -6,7 +6,6 @@ config_path = "config.json"
 config_data = {
     "interval_ms": 100,
     "hotkey": "X",
-    "mouse_button": "Left"
 }
 
 def load_config():
